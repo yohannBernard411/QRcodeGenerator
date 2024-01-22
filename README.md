@@ -56,7 +56,7 @@ output = []
 # Pour chaque ligne:
 for index, row in df.iterrows():
     # On ajoute la ligne retravaillée au dossier de sortie
-    output.append((row['Nom'], row['Prénom'], row['Poste'], str(0)+str(row['Telephone']), row['Email'], row['AdressProlians']))
+    output.append((row['Nom'], row['Prénom'], row['Poste'], str(0)+str(row['Telephone']), row['Email'], row['AdressXxxxxxxx']))
 print("Le dossier de sortie contient: "+str(len(output)))
 # variables fixes pour la requéte:
 clef = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
