@@ -40,9 +40,9 @@ Ensuite on charge les librairies:
 import pandas as pd
 import requests
 ```
-On ajouter le dossier de sortie XxxxxxxxQR
-Ajouter le dossier employees.csv dans la partie dossier.
-Vérification du CSV:
+On ajoute le dossier de sortie XxxxxxxxQR<br>
+Ajouter le dossier employees.csv dans la partie dossier.<br>
+Vérification du CSV:<br>
 ```py
 all_employees = pd.read_csv("Xxxxxxxx.csv", sep=',', encoding='latin-1')
 all_employees
