@@ -96,7 +96,7 @@ Et voila tout les QRcodes sont enregistré dans le dossier, avec pour identifian
 
 En quelques minutes, nous venons de réaliser une tache en l'automatisant, une tache qui aurait pris des heures sinon.
 
-Ce qui prouve encore une fois la puissance du code.
+Ce qui prouve encore une fois la puissance du code.&#128170;
 
 
 
