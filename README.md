@@ -18,11 +18,12 @@ Ce n'est pas parce que l'on vous confie une tache merdique que vous devez l'exec
 
 Alors le premier but pour moi sera de trouver une api qui renvoi des QRcode aprés une requéte contenant les données.
 
-Et le troisiéme resultat de Google qui m'interpéle est le site ![QRcode generator](https://www.qr-code-generator.com)
+Et le troisiéme resultat de Google qui m'interpéle est le site [QRcode generator](https://www.qr-code-generator.com)
 
 Je génére une clef API.
 
-Puis je me connecte sur ![Colab](https://colab.research.google.com/#) pour créer le code nécessaire.
+Puis je me connecte sur [Colab](https://colab.research.google.com/#) pour créer le code nécessaire.
+
 
 Quel langage??? Si il s'agit de traiter des données, le python me semble le plus sûr, ce n'est pas pour rien que les sites de big data fontionnent en python.
 
