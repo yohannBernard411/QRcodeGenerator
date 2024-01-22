@@ -84,7 +84,7 @@ for employe in output:
 #signal de fin
 print(" **********************")
 print("*                      *")
-print("*   Traitement finit   *")
+print("*   Traitement fini   *")
 print("*                      *")
 print(" **********************")
 print("Toutes les données employées sont converties en QR codes")
