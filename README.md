@@ -76,7 +76,7 @@ for employe in output:
   # envoi de la requete
   reponse = requests.post(url, corp)
   # creation du fichier (prénom-nom.svg)
-  fichier = open("ProliansQR/"+employe[1]+"-"+employe[0]+".svg", "a")
+  fichier = open("XxxxxxxxQR/"+employe[1]+"-"+employe[0]+".svg", "a")
   # enregistrement du fichier dans le dossier
   fichier.write(reponse.text)
   #fermeture du fichier
