@@ -90,8 +90,12 @@ print(" **********************")
 print("Toutes les données employées sont converties en QR codes")
 print("il y a "+str(rank)+" employées")
 ```
+3 Conclusion
+============
 Et voila tout les QRcodes sont enregistré dans le dossier, avec pour identifiant "prénom-nom".
+
 En quelques minutes, nous venons de réaliser une tache en l'automatisant, une tache qui aurait pris des heures sinon.
+
 Ce qui prouve encore une fois la puissance du code.
 
 
