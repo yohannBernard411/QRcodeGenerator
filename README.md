@@ -11,7 +11,7 @@ Elle me reponds "oui puisque mon chef me l'a demandé!" :smile:
 
 Je ne peux pas laisser faire une telle chose!!!
 
-Ce n'est pas parce que l'on vous confie une tache merdique que vous devez l'executer comme un merdeux!
+Ce n'est pas parce que l'on vous confie une tache répétitive et sans intérêt qu'il faut l’exécuter sans s'y intéresser.
 
 2 Execution
 ===========
